@@ -1,7 +1,7 @@
 *
 !*/
 !.gitignore
-!/1126623381/Config/**/* # a better advent
+!/1126623381/Config/*
 !/1248241465/Config/XComMoreGrenades.ini
 !/1662114279/Config/XComIriPsiOverhaul.ini
 !/1662114279/Config/XComClassData.ini
@@ -18,7 +18,4 @@
 !/1468119960/Localization/XComGame.int
 !/1127564073/Config/XComClassData.ini
 !/2245270253/Config/XComWeaponSkinReplacer.ini
-!/1126623381/Config/Skirmisher/XComEncounterLists.ini
-!/1126623381/Config/Skirmisher/XComGameData_CharacterStats.ini
-!/1126623381/Config/Bosses/XComEncounterLists.ini
-!/1126623381/Config/Bosses/XComGameData_CharacterStats.ini
+
